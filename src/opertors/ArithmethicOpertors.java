@@ -22,11 +22,6 @@ public class ArithmethicOpertors {
 		float answer4= number7 / number8 ;
 		System.out.println(answer4);
 		
-		int number9 = 8;
-		int number10 = 10;
-		int answer5= number9%number10;
-		System.out.println(answer5);
-		
 		
 		
 	}
